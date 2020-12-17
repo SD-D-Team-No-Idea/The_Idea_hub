@@ -15,3 +15,9 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+
+Route::get('users','APIcontroller@getUsers');
+Route::get('user/{id}','APIcontroller@getUser');
+Route::post('user','APIcontroller@createUser');
+Route::put('user/{user}','APIcontroller@updateUser');
+Route::delete('user/{user}','APIcontroller@deleteUser');
