@@ -1,5 +1,10 @@
-## Laravel PHP Framework
+## The Idea Hub 
 
+Access website using this link: https://sd-d-team-no-idea.github.io/The_Idea_hub/
+
+## Tools Used
+
+# Laravel PHP Framework
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
