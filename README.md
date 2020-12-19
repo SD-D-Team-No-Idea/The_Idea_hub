@@ -51,12 +51,6 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 
 [Shop Homepage](https://startbootstrap.com/template/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
-### Preview
-
-[![Shop Homepage Preview](https://assets.startbootstrap.com/img/screenshots/templates/shop-homepage.png)](https://startbootstrap.github.io/startbootstrap-shop-homepage/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-shop-homepage/)**
-
 ### Copyright and License
 
 Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/gh-pages/LICENSE) license.
